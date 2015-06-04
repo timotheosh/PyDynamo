@@ -55,3 +55,12 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Emacs
+\#*
+.\#*
+*~
+
+# Vi
+.*.swp
+
